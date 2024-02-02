@@ -1,0 +1,6 @@
+#pattern[0] = "010" --> pattern[0][1] = "1"    (convertable to integer using int())
+#pattern[1] = "001000"
+#pattern[2] = "0010"
+#pattern[3] = "2" -> ID of the commiter
+
+#idea:classıfıcatıon degerlerını dırekt toplayabılırız, 0 lar zaten etkı etmeyecek

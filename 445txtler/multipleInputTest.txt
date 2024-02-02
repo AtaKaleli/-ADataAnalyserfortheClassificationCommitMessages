@@ -1,0 +1,12 @@
+# key = "borsh"
+# for query in queries:
+#     query = "".join(query)
+#     pattern = re.match("(\d{3})(\d{6})(\d{4})", query).groups()
+#
+#     for i in range(3):  # for swm
+#         a[key]["swm"][i] += int(pattern[0][i])
+#     for i in range(6):  # for nfr
+#         a[key]["nfr"][i] += int(pattern[1][i])
+#     for i in range(4):  # for soft
+#         a[key]["soft"][i] += int(pattern[2][i])
+# print(a[key])
